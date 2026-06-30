@@ -14,7 +14,7 @@ body{
   overflow-x:hidden;
   text-align:center;
 
-  background-image:url('../images/paper-bg.jpg');
+  background-image:url('/images/paper-bg.jpg');
   background-size:cover;
   background-position:center;
   background-attachment:fixed;
